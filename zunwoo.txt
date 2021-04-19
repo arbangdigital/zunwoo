@@ -1,0 +1,13 @@
+npx create-next-app
+
+>name of project
+
+zunwoo
+
+github account
+
+PS C:\Users\jsgolang\zunwoo> git config --global user.email "arbangdigital@gmail.com"
+PS C:\Users\jsgolang\zunwoo> git config --global user.name "arbangdigital"
+
+git remote add origin https://github.com/arbangdigital/zunwoo.git
+
